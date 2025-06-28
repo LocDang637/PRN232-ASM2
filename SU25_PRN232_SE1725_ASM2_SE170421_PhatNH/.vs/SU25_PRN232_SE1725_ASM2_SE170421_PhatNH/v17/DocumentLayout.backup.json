@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D665EA5-AB26-4400-91B9-4BE3A07FA7F9}|HivCare.GraphQLClients.BlazorWAS.PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1725_asm2_se170421_phatnh\\hivcare.graphqlclients.blazorwas.phatnh\\pages\\doctoravailabilityphatnhs\\doctoravailabilityphatnhlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D665EA5-AB26-4400-91B9-4BE3A07FA7F9}|HivCare.GraphQLClients.BlazorWAS.PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH.csproj|solutionrelative:hivcare.graphqlclients.blazorwas.phatnh\\pages\\doctoravailabilityphatnhs\\doctoravailabilityphatnhlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D665EA5-AB26-4400-91B9-4BE3A07FA7F9}|HivCare.GraphQLClients.BlazorWAS.PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1725_asm2_se170421_phatnh\\hivcare.graphqlclients.blazorwas.phatnh\\pages\\doctoravailabilityphatnhs\\doctoravailabilityphatnhdetail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D665EA5-AB26-4400-91B9-4BE3A07FA7F9}|HivCare.GraphQLClients.BlazorWAS.PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH.csproj|solutionrelative:hivcare.graphqlclients.blazorwas.phatnh\\pages\\doctoravailabilityphatnhs\\doctoravailabilityphatnhdetail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC1C387-8BF4-4B33-AE64-1882A62F192F}|HivCare.Repository.PhatNH\\HivCare.Repository.PhatNH.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1725_asm2_se170421_phatnh\\hivcare.repository.phatnh\\doctorphatnhrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC1C387-8BF4-4B33-AE64-1882A62F192F}|HivCare.Repository.PhatNH\\HivCare.Repository.PhatNH.csproj|solutionrelative:hivcare.repository.phatnh\\doctorphatnhrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D665EA5-AB26-4400-91B9-4BE3A07FA7F9}|HivCare.GraphQLClients.BlazorWAS.PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1725_asm2_se170421_phatnh\\hivcare.graphqlclients.blazorwas.phatnh\\pages\\doctoravailabilityphatnhs\\doctoravailabilityphatnhform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D665EA5-AB26-4400-91B9-4BE3A07FA7F9}|HivCare.GraphQLClients.BlazorWAS.PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH.csproj|solutionrelative:hivcare.graphqlclients.blazorwas.phatnh\\pages\\doctoravailabilityphatnhs\\doctoravailabilityphatnhform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC1C387-8BF4-4B33-AE64-1882A62F192F}|HivCare.Repository.PhatNH\\HivCare.Repository.PhatNH.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1725_asm2_se170421_phatnh\\hivcare.repository.phatnh\\doctoravailabilityphatnhrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC1C387-8BF4-4B33-AE64-1882A62F192F}|HivCare.Repository.PhatNH\\HivCare.Repository.PhatNH.csproj|solutionrelative:hivcare.repository.phatnh\\doctoravailabilityphatnhrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D665EA5-AB26-4400-91B9-4BE3A07FA7F9}|HivCare.GraphQLClients.BlazorWAS.PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1725_asm2_se170421_phatnh\\hivcare.graphqlclients.blazorwas.phatnh\\graphqlclients\\graphqlconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D665EA5-AB26-4400-91B9-4BE3A07FA7F9}|HivCare.GraphQLClients.BlazorWAS.PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH.csproj|solutionrelative:hivcare.graphqlclients.blazorwas.phatnh\\graphqlclients\\graphqlconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5958D-E53A-4088-853A-81B864E3DFD0}|HivCare.Services.PhatNH\\HivCare.Services.PhatNH.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1725_asm2_se170421_phatnh\\hivcare.services.phatnh\\doctoravailabilityphatnhservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B5958D-E53A-4088-853A-81B864E3DFD0}|HivCare.Services.PhatNH\\HivCare.Services.PhatNH.csproj|solutionrelative:hivcare.services.phatnh\\doctoravailabilityphatnhservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 361,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorAvailabilityPhatNhDetail.razor",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH\\Pages\\DoctorAvailabilityPhatNhs\\DoctorAvailabilityPhatNhDetail.razor",
+              "RelativeDocumentMoniker": "HivCare.GraphQLClients.BlazorWAS.PhatNH\\Pages\\DoctorAvailabilityPhatNhs\\DoctorAvailabilityPhatNhDetail.razor",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH\\Pages\\DoctorAvailabilityPhatNhs\\DoctorAvailabilityPhatNhDetail.razor",
+              "RelativeToolTip": "HivCare.GraphQLClients.BlazorWAS.PhatNH\\Pages\\DoctorAvailabilityPhatNhs\\DoctorAvailabilityPhatNhDetail.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T13:15:34.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorPhatNhRepository.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.Repository.PhatNH\\DoctorPhatNhRepository.cs",
+              "RelativeDocumentMoniker": "HivCare.Repository.PhatNH\\DoctorPhatNhRepository.cs",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.Repository.PhatNH\\DoctorPhatNhRepository.cs",
+              "RelativeToolTip": "HivCare.Repository.PhatNH\\DoctorPhatNhRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T13:02:32.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorAvailabilityPhatNhList.razor",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH\\Pages\\DoctorAvailabilityPhatNhs\\DoctorAvailabilityPhatNhList.razor",
+              "RelativeDocumentMoniker": "HivCare.GraphQLClients.BlazorWAS.PhatNH\\Pages\\DoctorAvailabilityPhatNhs\\DoctorAvailabilityPhatNhList.razor",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH\\Pages\\DoctorAvailabilityPhatNhs\\DoctorAvailabilityPhatNhList.razor",
+              "RelativeToolTip": "HivCare.GraphQLClients.BlazorWAS.PhatNH\\Pages\\DoctorAvailabilityPhatNhs\\DoctorAvailabilityPhatNhList.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T11:49:57.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorAvailabilityPhatNhForm.razor",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH\\Pages\\DoctorAvailabilityPhatNhs\\DoctorAvailabilityPhatNhForm.razor",
+              "RelativeDocumentMoniker": "HivCare.GraphQLClients.BlazorWAS.PhatNH\\Pages\\DoctorAvailabilityPhatNhs\\DoctorAvailabilityPhatNhForm.razor",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH\\Pages\\DoctorAvailabilityPhatNhs\\DoctorAvailabilityPhatNhForm.razor",
+              "RelativeToolTip": "HivCare.GraphQLClients.BlazorWAS.PhatNH\\Pages\\DoctorAvailabilityPhatNhs\\DoctorAvailabilityPhatNhForm.razor",
+              "ViewState": "AQIAANMAAAAAAAAAAAAgwOMAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T13:15:09.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorAvailabilityPhatNhRepository.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.Repository.PhatNH\\DoctorAvailabilityPhatNhRepository.cs",
+              "RelativeDocumentMoniker": "HivCare.Repository.PhatNH\\DoctorAvailabilityPhatNhRepository.cs",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.Repository.PhatNH\\DoctorAvailabilityPhatNhRepository.cs",
+              "RelativeToolTip": "HivCare.Repository.PhatNH\\DoctorAvailabilityPhatNhRepository.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswD8AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T13:14:35.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorAvailabilityPhatNhService.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.Services.PhatNH\\DoctorAvailabilityPhatNhService.cs",
+              "RelativeDocumentMoniker": "HivCare.Services.PhatNH\\DoctorAvailabilityPhatNhService.cs",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.Services.PhatNH\\DoctorAvailabilityPhatNhService.cs",
+              "RelativeToolTip": "HivCare.Services.PhatNH\\DoctorAvailabilityPhatNhService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T13:02:21.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GraphQLConsumer.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH\\GraphQLClients\\GraphQLConsumer.cs",
+              "RelativeDocumentMoniker": "HivCare.GraphQLClients.BlazorWAS.PhatNH\\GraphQLClients\\GraphQLConsumer.cs",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH\\GraphQLClients\\GraphQLConsumer.cs",
+              "RelativeToolTip": "HivCare.GraphQLClients.BlazorWAS.PhatNH\\GraphQLClients\\GraphQLConsumer.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAAAQwA4BAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T11:31:18.585Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 66,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

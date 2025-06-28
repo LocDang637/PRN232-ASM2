@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HivCare.Repository.PhatNH")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b90e728d1d67c6dbdb1575b5af4dae5ef8ca979")]
 [assembly: System.Reflection.AssemblyProductAttribute("HivCare.Repository.PhatNH")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HivCare.Repository.PhatNH")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

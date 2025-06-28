@@ -1,0 +1,16 @@
+D:\SU25\PRN232\ASM\ASM2\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\SmokeQuit.Services.LocDPX\bin\Debug\net8.0\SmokeQuit.Services.LocDPX.deps.json
+D:\SU25\PRN232\ASM\ASM2\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\SmokeQuit.Services.LocDPX\bin\Debug\net8.0\SmokeQuit.Services.LocDPX.dll
+D:\SU25\PRN232\ASM\ASM2\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\SmokeQuit.Services.LocDPX\bin\Debug\net8.0\SmokeQuit.Services.LocDPX.pdb
+D:\SU25\PRN232\ASM\ASM2\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\SmokeQuit.Services.LocDPX\bin\Debug\net8.0\SmokeQuit.Repository.LocDPX.dll
+D:\SU25\PRN232\ASM\ASM2\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\SmokeQuit.Services.LocDPX\bin\Debug\net8.0\SmokeQuit.Repository.LocDPX.pdb
+D:\SU25\PRN232\ASM\ASM2\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\SmokeQuit.Services.LocDPX\obj\Debug\net8.0\SmokeQuit.Services.LocDPX.csproj.AssemblyReference.cache
+D:\SU25\PRN232\ASM\ASM2\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\SmokeQuit.Services.LocDPX\obj\Debug\net8.0\SmokeQuit.Services.LocDPX.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU25\PRN232\ASM\ASM2\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\SmokeQuit.Services.LocDPX\obj\Debug\net8.0\SmokeQuit.Services.LocDPX.AssemblyInfoInputs.cache
+D:\SU25\PRN232\ASM\ASM2\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\SmokeQuit.Services.LocDPX\obj\Debug\net8.0\SmokeQuit.Services.LocDPX.AssemblyInfo.cs
+D:\SU25\PRN232\ASM\ASM2\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\SmokeQuit.Services.LocDPX\obj\Debug\net8.0\SmokeQuit.Services.LocDPX.csproj.CoreCompileInputs.cache
+D:\SU25\PRN232\ASM\ASM2\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\SmokeQuit.Services.LocDPX\obj\Debug\net8.0\SmokeQuit.Services.LocDPX.sourcelink.json
+D:\SU25\PRN232\ASM\ASM2\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\SmokeQuit.Services.LocDPX\obj\Debug\net8.0\SmokeQui.12B1597A.Up2Date
+D:\SU25\PRN232\ASM\ASM2\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\SmokeQuit.Services.LocDPX\obj\Debug\net8.0\SmokeQuit.Services.LocDPX.dll
+D:\SU25\PRN232\ASM\ASM2\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\SmokeQuit.Services.LocDPX\obj\Debug\net8.0\refint\SmokeQuit.Services.LocDPX.dll
+D:\SU25\PRN232\ASM\ASM2\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\SmokeQuit.Services.LocDPX\obj\Debug\net8.0\SmokeQuit.Services.LocDPX.pdb
+D:\SU25\PRN232\ASM\ASM2\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\SmokeQuit.Services.LocDPX\obj\Debug\net8.0\ref\SmokeQuit.Services.LocDPX.dll

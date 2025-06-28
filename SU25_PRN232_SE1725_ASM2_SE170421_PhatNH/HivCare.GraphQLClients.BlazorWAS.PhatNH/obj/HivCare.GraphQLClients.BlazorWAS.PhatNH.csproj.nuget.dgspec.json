@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT_source\\sem8\\Prn232\\Project\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH.csproj": {}
+    "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH.csproj": {}
   },
   "projects": {
-    "D:\\FPT_source\\sem8\\Prn232\\Project\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH.csproj": {
+    "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT_source\\sem8\\Prn232\\Project\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH.csproj",
+        "projectUniqueName": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH.csproj",
         "projectName": "HivCare.GraphQLClients.BlazorWAS.PhatNH",
-        "projectPath": "D:\\FPT_source\\sem8\\Prn232\\Project\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH.csproj",
-        "packagesPath": "C:\\Users\\phatp\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT_source\\sem8\\Prn232\\Project\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH\\obj\\",
+        "projectPath": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH.csproj",
+        "packagesPath": "C:\\Users\\locda\\.nuget\\packages\\",
+        "outputPath": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.GraphQLClients.BlazorWAS.PhatNH\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\phatp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\locda\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -74,13 +75,13 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.7, )",
+              "version": "[8.0.17, )",
               "autoReferenced": true
             },
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.7, )",
+              "version": "[9.0.6, )",
               "autoReferenced": true
             }
           },
@@ -98,7 +99,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[8.0.7, 8.0.7]"
+              "version": "[8.0.17, 8.0.17]"
             }
           ],
           "frameworkReferences": {
@@ -106,7 +107,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

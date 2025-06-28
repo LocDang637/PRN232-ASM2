@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gdQU7dTYvSw=",
+  "dgSpecHash": "KfEI6yWustA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\locda\\Desktop\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.Services.PhatNH\\HivCare.Services.PhatNH.csproj",
+  "projectFilePath": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.Services.PhatNH\\HivCare.Services.PhatNH.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\locda\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\locda\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
