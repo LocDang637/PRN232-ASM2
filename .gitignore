@@ -1,0 +1,71 @@
+# ====================
+# Additional entries for Blazor + GraphQL
+# ====================
+
+# Blazor WebAssembly specific
+wwwroot/service-worker-assets.js
+**/.blazor/
+
+# GraphQL generated files (StrawberryShake, etc.)
+Generated/
+**/*Generated*
+**/*.generated.cs
+**/*.g.cs
+schema.json
+schema.graphql
+
+# HotChocolate specific
+.hc/
+
+# Entity Framework
+Migrations/
+**/Migrations/*
+*.db
+*.db-shm
+*.db-wal
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# User secrets (if not already covered)
+secrets.json
+**/secrets.json
+
+# Local database files
+*.sqlite
+*.sqlite3
+localdb/
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# Azure/Cloud specific
+*.azurePubxml
+.azure/
+
+# Certificates
+*.crt
+*.key
+*.p12
+*.p7b
+*.cer
+
+# GraphQL Playground/IDE files
+.graphqlrc
+.graphqlrc.json
+.graphqlrc.yml
+.graphqlrc.yaml
+
+# Swagger/OpenAPI
+swagger.json
+openapi.json

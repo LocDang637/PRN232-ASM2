@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\HivCare.GraphQLAPIServices.PhatNH.props" />
+</Project>

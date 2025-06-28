@@ -1,0 +1,291 @@
+﻿@page "/DoctorAvailabilityPhatNhs/DoctorAvailabilityPhatNhDetail/{id:int}"
+@using HivCare.GraphQLClients.BlazorWAS.PhatNH.Models
+@inject GraphQLConsumer GraphQLConsumer
+@inject NavigationManager NavigationManager
+
+<div class="container-fluid mt-4">
+    <h3>Doctor Availability Details</h3>
+
+    @if (doctorAvailability == null && errorMessage == null)
+    {
+        <div class="text-center">
+            <div class="spinner-border text-primary" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+            <p class="mt-2">Loading data...</p>
+        </div>
+    }
+    else if (errorMessage != null)
+    {
+        <div class="alert alert-danger">@errorMessage</div>
+    }
+    else
+    {
+        <div class="card">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h4>Availability ID: <span class="badge bg-secondary">@doctorAvailability.DoctorAvailabilityPhatNhiD</span></h4>
+                <div>
+                    <a href="/DoctorAvailabilityPhatNhs/DoctorAvailabilityPhatNhList" class="btn btn-primary">
+                        <i class="fas fa-arrow-left"></i> Back to List
+                    </a>
+                </div>
+            </div>
+            <div class="card-body">
+                <dl class="row">
+                    <dt class="col-sm-3">Doctor ID</dt>
+                    <dd class="col-sm-9">
+                        <span class="badge bg-info">@doctorAvailability.DoctorPhatNhiD</span>
+                    </dd>
+
+                    <dt class="col-sm-3">Day of Week</dt>
+                    <dd class="col-sm-9">
+                        @if (!string.IsNullOrEmpty(doctorAvailability.DayOfWeek))
+                        {
+                            <span class="badge @GetDayOfWeekClass(doctorAvailability.DayOfWeek)">
+                                @doctorAvailability.DayOfWeek
+                            </span>
+                        }
+                        else
+                        {
+                            <span class="text-muted">-</span>
+                        }
+                    </dd>
+
+                    <dt class="col-sm-3">Working Hours</dt>
+                    <dd class="col-sm-9">
+                        @if (doctorAvailability.StartTime.HasValue && doctorAvailability.EndTime.HasValue)
+                        {
+                            <div class="d-flex flex-column">
+                                <small class="text-success">
+                                    <i class="fas fa-clock me-1"></i>@doctorAvailability.StartTime.Value.ToString("HH:mm")
+                                </small>
+                                <small class="text-danger">
+                                    <i class="fas fa-clock me-1"></i>@doctorAvailability.EndTime.Value.ToString("HH:mm")
+                                </small>
+                            </div>
+                        }
+                        else
+                        {
+                            <span class="text-muted">Not set</span>
+                        }
+                    </dd>
+
+                    <dt class="col-sm-3">Specific Date</dt>
+                    <dd class="col-sm-9">
+                        @if (doctorAvailability.SpecificDate.HasValue)
+                        {
+                            <span class="badge bg-warning text-dark">
+                                @doctorAvailability.SpecificDate.Value.ToString("dd/MM/yyyy")
+                            </span>
+                        }
+                        else
+                        {
+                            <span class="text-muted">-</span>
+                        }
+                    </dd>
+
+                    <dt class="col-sm-3">Max Appointments</dt>
+                    <dd class="col-sm-9">
+                        @if (doctorAvailability.MaxAppointments.HasValue)
+                        {
+                            <span class="badge bg-primary">@doctorAvailability.MaxAppointments.Value</span>
+                        }
+                        else
+                        {
+                            <span class="text-muted">Unlimited</span>
+                        }
+                    </dd>
+
+                    <dt class="col-sm-3">Break Time</dt>
+                    <dd class="col-sm-9">
+                        @if (doctorAvailability.BreakStartTime.HasValue && doctorAvailability.BreakEndTime.HasValue)
+                        {
+                            <small class="text-warning">
+                                <i class="fas fa-coffee me-1"></i>
+                                @doctorAvailability.BreakStartTime.Value.ToString("HH:mm") - @doctorAvailability.BreakEndTime.Value.ToString("HH:mm")
+                            </small>
+                        }
+                        else
+                        {
+                            <span class="text-muted">None</span>
+                        }
+                    </dd>
+
+                    <dt class="col-sm-3">Status</dt>
+                    <dd class="col-sm-9">
+                        <span class="badge @GetStatusClass(doctorAvailability.Status)">
+                            @doctorAvailability.Status
+                        </span>
+                    </dd>
+
+                    <dt class="col-sm-3">Emergency Available</dt>
+                    <dd class="col-sm-9">
+                        @if (doctorAvailability.IsEmergencyAvailable)
+                        {
+                            <span class="badge bg-success">
+                                <i class="fas fa-ambulance me-1"></i>Yes
+                            </span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-secondary">
+                                <i class="fas fa-times me-1"></i>No
+                            </span>
+                        }
+                    </dd>
+
+                    <dt class="col-sm-3">Notes</dt>
+                    <dd class="col-sm-9">
+                        @if (!string.IsNullOrEmpty(doctorAvailability.Notes))
+                        {
+                            <span title="@doctorAvailability.Notes" class="text-truncate d-inline-block" style="max-width: 300px;">
+                                @doctorAvailability.Notes
+                            </span>
+                        }
+                        else
+                        {
+                            <span class="text-muted">-</span>
+                        }
+                    </dd>
+
+                    <dt class="col-sm-3">Created At</dt>
+                    <dd class="col-sm-9">
+                        @if (doctorAvailability.CreatedAt.HasValue)
+                        {
+                            <small class="text-muted">
+                                @doctorAvailability.CreatedAt.Value.ToString("dd/MM/yyyy HH:mm")
+                            </small>
+                        }
+                        else
+                        {
+                            <span class="text-muted">-</span>
+                        }
+                    </dd>
+
+                    <dt class="col-sm-3">Updated At</dt>
+                    <dd class="col-sm-9">
+                        @if (doctorAvailability.UpdatedAt.HasValue)
+                        {
+                            <small class="text-muted">
+                                @doctorAvailability.UpdatedAt.Value.ToString("dd/MM/yyyy HH:mm")
+                            </small>
+                        }
+                        else
+                        {
+                            <span class="text-muted">-</span>
+                        }
+                    </dd>
+                </dl>
+            </div>
+            <div class="card-footer d-flex justify-content-between align-items-center">
+                <small class="text-muted">
+                    <i class="fas fa-info-circle me-1"></i>
+                    Last updated: @DateTime.Now.ToString("dd/MM/yyyy HH:mm")
+                </small>
+                <div class="btn-group">
+                    <a href="/DoctorAvailabilityPhatNhs/DoctorAvailabilityPhatNhList" class="btn btn-primary">
+                        <i class="fas fa-arrow-left"></i> Back to List
+                    </a>
+                    <button class="btn btn-warning" @onclick="() => EditAvailability(doctorAvailability.DoctorAvailabilityPhatNhiD)">
+                        <i class="fas fa-edit"></i> Edit
+                    </button>
+                    <button class="btn btn-danger" @onclick="() => DeleteAvailability(doctorAvailability.DoctorAvailabilityPhatNhiD)">
+                        <i class="fas fa-trash"></i> Delete
+                    </button>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@code {
+    [Parameter]
+    public int id { get; set; }
+
+    private DoctorAvailabilityPhatNh? doctorAvailability;
+    private string? errorMessage;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadDetailInformation();
+    }
+
+    private async Task LoadDetailInformation()
+    {
+        try
+        {
+            doctorAvailability = await GraphQLConsumer.GetDoctorAvailabilityPhatNh(id);
+            StateHasChanged();
+        }
+        catch (Exception ex)
+        {
+            errorMessage = $"Error loading data: {ex.Message}";
+            Console.WriteLine($"Error loading doctor availability: {ex.Message}");
+        }
+    }
+
+    private string GetStatusClass(string? status)
+    {
+        return status?.ToLower() switch
+        {
+            "active" => "bg-success",
+            "inactive" => "bg-secondary",
+            "pending" => "bg-warning text-dark",
+            "cancelled" => "bg-danger",
+            "busy" => "bg-info",
+            _ => "bg-secondary"
+        };
+    }
+
+    private string GetDayOfWeekClass(string? dayOfWeek)
+    {
+        return dayOfWeek?.ToLower() switch
+        {
+            "monday" => "bg-primary",
+            "tuesday" => "bg-success",
+            "wednesday" => "bg-info",
+            "thursday" => "bg-warning text-dark",
+            "friday" => "bg-danger",
+            "saturday" => "bg-secondary",
+            "sunday" => "bg-dark",
+            _ => "bg-light text-dark"
+        };
+    }
+
+    private void EditAvailability(int id)
+    {
+        Console.WriteLine($"Edit availability ID: {id}");
+        NavigationManager.NavigateTo($"/DoctorAvailabilityPhatNhs/DoctorAvailabilityPhatNhEdit/{id}");
+    }
+
+    private async Task DeleteAvailability(int id)
+    {
+        if (await ConfirmDelete())
+        {
+            try
+            {
+                // TODO: Implement delete API call
+                // await GraphQLConsumer.DeleteDoctorAvailabilityPhatNh(id);
+                Console.WriteLine($"Deleted availability ID: {id}");
+                NavigationManager.NavigateTo("/DoctorAvailabilityPhatNhs/DoctorAvailabilityPhatNhList");
+            }
+            catch (Exception ex)
+            {
+                errorMessage = $"Error deleting data: {ex.Message}";
+                Console.WriteLine($"Error deleting availability: {ex.Message}");
+                StateHasChanged();
+            }
+        }
+    }
+
+    private async Task<bool> ConfirmDelete()
+    {
+        // TODO: Implement proper confirmation dialog
+        // For now, using a simple JavaScript confirm via JS interop
+        // You can replace this with a modal component
+        return await JSRuntime.InvokeAsync<bool>("confirm", "Are you sure you want to delete this availability?");
+    }
+
+    [Inject]
+    private IJSRuntime JSRuntime { get; set; } = default!;
+}

@@ -1,0 +1,6 @@
+@HivCare.GraphQLAPIServices.PhatNH_HostAddress = http://localhost:5027
+
+GET {{HivCare.GraphQLAPIServices.PhatNH_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HivCare.Repository.PhatNH", "HivCare.Repository.PhatNH\HivCare.Repository.PhatNH.csproj", "{9EC1C387-8BF4-4B33-AE64-1882A62F192F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HivCare.Services.PhatNH", "HivCare.Services.PhatNH\HivCare.Services.PhatNH.csproj", "{69B5958D-E53A-4088-853A-81B864E3DFD0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HivCare.GraphQLAPIServices.PhatNH", "HivCare.GraphQLAPIServices.PhatNH\HivCare.GraphQLAPIServices.PhatNH.csproj", "{18A10515-9569-4B88-91E0-7B2FB76D57AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HivCare.GraphQLClients.BlazorWAS.PhatNH", "HivCare.GraphQLClients.BlazorWAS.PhatNH\HivCare.GraphQLClients.BlazorWAS.PhatNH.csproj", "{9D665EA5-AB26-4400-91B9-4BE3A07FA7F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EC1C387-8BF4-4B33-AE64-1882A62F192F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC1C387-8BF4-4B33-AE64-1882A62F192F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC1C387-8BF4-4B33-AE64-1882A62F192F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC1C387-8BF4-4B33-AE64-1882A62F192F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69B5958D-E53A-4088-853A-81B864E3DFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69B5958D-E53A-4088-853A-81B864E3DFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69B5958D-E53A-4088-853A-81B864E3DFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69B5958D-E53A-4088-853A-81B864E3DFD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18A10515-9569-4B88-91E0-7B2FB76D57AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A10515-9569-4B88-91E0-7B2FB76D57AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A10515-9569-4B88-91E0-7B2FB76D57AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A10515-9569-4B88-91E0-7B2FB76D57AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D665EA5-AB26-4400-91B9-4BE3A07FA7F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D665EA5-AB26-4400-91B9-4BE3A07FA7F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D665EA5-AB26-4400-91B9-4BE3A07FA7F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D665EA5-AB26-4400-91B9-4BE3A07FA7F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B32BF63-7E2B-4E96-B7C3-1A07C34F1038}
+	EndGlobalSection
+EndGlobal
