@@ -2,6 +2,36 @@
 # Additional entries for Blazor + GraphQL
 # ====================
 
+# Build folders (all projects/subfolders)
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+**/x64/
+**/x86/
+**/[Aa][Rr][Mm]/
+**/[Aa][Rr][Mm]64/
+**/out/
+
+# Package folders
+**/packages/
+!**/packages/build/
+
+# Node modules (if any Blazor projects use npm)
+**/node_modules/
+
+# VS Code folders in any location
+**/.vscode/
+
+# JetBrains Rider folders
+**/.idea/
+
+# User-specific files
+**/*.user
+**/*.suo
+**/*.cache
+**/*.tmp
+
 # Blazor WebAssembly specific
 wwwroot/service-worker-assets.js
 **/.blazor/
