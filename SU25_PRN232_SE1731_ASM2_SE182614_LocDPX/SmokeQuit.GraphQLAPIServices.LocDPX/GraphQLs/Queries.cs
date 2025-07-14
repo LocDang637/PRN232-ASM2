@@ -101,12 +101,12 @@ namespace SmokeQuit.GraphQLAPIServices.LocDPX.GraphQLs
             }
         }
         [Authorize]
-        public async Task<PaginationResult<ChatsLocDpx>> SearchChatsWithPaging(ClassSearchChatsRequest request)
+        public async Task<PaginationResult<ChatsLocDpx>> SearchChatsWithPaging(ClassSearchChatRequest request)
         {
             try
             {
                 var result = await _serviceProvider.ChatsService.SearchAsyncWithPagination(
-                    request.Message, request.SentBy, request.MessageType, request.CurrentPage, request.PageSize);
+                     request.MessageType, request.SentBy,request.IsRead, request.CurrentPage, request.PageSize);
                 return result ?? new PaginationResult<ChatsLocDpx>();
             }
             catch (Exception ex)

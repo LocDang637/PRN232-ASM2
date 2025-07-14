@@ -60,7 +60,7 @@ namespace SmokeQuit.GraphQLAPIServices.LocDPX.GraphQLs
 
         #region JWT Authentication Mutations
 
-        public async Task<LoginResponse> Login(string username, string password)
+        public async Task<LoginResponses> Login(string username, string password)
         {
             try
             {
@@ -69,7 +69,7 @@ namespace SmokeQuit.GraphQLAPIServices.LocDPX.GraphQLs
                 if (user != null && user.UserAccountId > 0)
                 {
                     var token = GenerateJwtToken(user);
-                    return new LoginResponse
+                    return new LoginResponses
                     {
                         Token = token,
                         User = user
@@ -112,5 +112,11 @@ namespace SmokeQuit.GraphQLAPIServices.LocDPX.GraphQLs
         }
 
         #endregion
+    }
+
+    public class LoginResponses
+    {
+        public string Token { get; set; } = string.Empty;
+        public SystemUserAccount User { get; set; } = new();
     }
 }

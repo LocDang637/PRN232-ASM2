@@ -1,8 +1,8 @@
-﻿@* Updated MainLayout.razor *@
-@inherits LayoutView
+﻿@using Microsoft.AspNetCore.Components
+@using SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.Services
+@inherits ComponentBase
 @inject JwtAuthService JwtAuthService
 @inject NavigationManager Navigation
-@using SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.Services
 @implements IDisposable
 
 <div class="page">
@@ -47,7 +47,12 @@
 </div>
 
 @code {
+    [Parameter] public RenderFragment Body { get; set; } = null!;
+    
     private string userRole = string.Empty;
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
 
     protected override void OnInitialized()
     {
@@ -58,103 +63,27 @@
     private void OnAuthenticationStateChanged()
     {
         UpdateUserInfo();
-        StateHasChanged();
+        InvokeAsync(StateHasChanged);
     }
 
     private void UpdateUserInfo()
     {
         if (JwtAuthService.IsAuthenticated)
         {
-            // Get user role from JWT claims
             var roleClaim = JwtAuthService.GetClaim("role");
             userRole = roleClaim switch
             {
                 "1" => "Admin",
-                "2" => "Manager",
+                "2" => "Manager", 
                 "3" => "User",
                 _ => "User"
             };
         }
+        else
+        {
+            userRole = string.Empty;
+        }
     }
-
-    private async Task Logout()
-    {
-        await JwtAuthService.LogoutAsync();
-        Navigation.NavigateTo("/login");
-    }
-
-    public void Dispose()
-    {
-        JwtAuthService.AuthenticationStateChanged -= OnAuthenticationStateChanged;
-    }
-}
-
-@* Updated NavMenu.razor *@
-@inject JwtAuthService JwtAuthService
-@using SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.Services
-
-<div class="top-row ps-3 navbar navbar-dark">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="">
-            <i class="bi bi-shield-check text-success me-2"></i>SmokeQuit LocDPX
-        </a>
-        <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-    </div>
-</div>
-
-@if (JwtAuthService.IsAuthenticated)
-{
-    <div class="@NavMenuCssClass nav-scrollable" @onclick="ToggleNavMenu">
-        <nav class="flex-column">
-            <div class="nav-item px-3">
-                <NavLink class="nav-link" href="/chats" Match="NavLinkMatch.All">
-                    <span class="bi bi-chat-fill-nav-menu" aria-hidden="true"></span> Chats
-                </NavLink>
-            </div>
-            <div class="nav-item px-3">
-                <NavLink class="nav-link" href="/coaches">
-                    <span class="bi bi-person-fill-nav-menu" aria-hidden="true"></span> Coaches
-                </NavLink>
-            </div>
-            
-            @* Show additional menu items based on user role *@
-            @if (IsAdmin() || IsManager())
-            {
-                <div class="nav-item px-3">
-                    <NavLink class="nav-link" href="/users">
-                        <span class="bi bi-people-fill-nav-menu" aria-hidden="true"></span> Users
-                    </NavLink>
-                </div>
-            }
-            
-            @if (IsAdmin())
-            {
-                <div class="nav-item px-3">
-                    <NavLink class="nav-link" href="/admin">
-                        <span class="bi bi-gear-fill-nav-menu" aria-hidden="true"></span> Administration
-                    </NavLink>
-                </div>
-            }
-        </nav>
-        
-        <div class="px-3 mt-auto mb-3">
-            <hr />
-            <div class="text-center">
-                <small class="text-muted">
-                    <i class="bi bi-person-circle"></i> @JwtAuthService.CurrentUser?.UserName<br />
-                    <i class="bi bi-clock"></i> Session expires: @GetTokenExpiration()
-                </small>
-            </div>
-        </div>
-    </div>
-}
-
-@code {
-    private bool collapseNavMenu = true;
-
-    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
 
     private void ToggleNavMenu()
     {
@@ -163,12 +92,12 @@
 
     private bool IsAdmin()
     {
-        return JwtAuthService.HasRole("1"); // Role 1 = Admin
+        return JwtAuthService.HasRole("1");
     }
 
     private bool IsManager()
     {
-        return JwtAuthService.HasRole("2"); // Role 2 = Manager
+        return JwtAuthService.HasRole("2");
     }
 
     private string GetTokenExpiration()
@@ -185,39 +114,15 @@
         catch { }
         return "Unknown";
     }
-}
 
-@* Updated Routes.razor *@
-@using Microsoft.AspNetCore.Components.Authorization
-
-<CascadingAuthenticationState>
-    <Router AppAssembly="typeof(Program).Assembly">
-        <Found Context="routeData">
-            <AuthorizeRouteView RouteData="routeData" DefaultLayout="typeof(Layout.MainLayout)">
-                <NotAuthorized>
-                    <RedirectToLogin />
-                </NotAuthorized>
-                <Authorizing>
-                    <div class="d-flex justify-content-center align-items-center vh-100">
-                        <div class="text-center">
-                            <div class="spinner-border text-primary" role="status">
-                                <span class="visually-hidden">Loading...</span>
-                            </div>
-                            <p class="mt-3">Authenticating...</p>
-                        </div>
-                    </div>
-                </Authorizing>
-            </AuthorizeRouteView>
-            <FocusOnNavigate RouteData="routeData" Selector="h1" />
-        </Found>
-    </Router>
-</CascadingAuthenticationState>
-
-@* RedirectToLogin.razor (create new component) *@
-@inject NavigationManager Navigation
-@code {
-    protected override void OnInitialized()
+    private async Task Logout()
     {
+        await JwtAuthService.LogoutAsync();
         Navigation.NavigateTo("/login");
+    }
+
+    public void Dispose()
+    {
+        JwtAuthService.AuthenticationStateChanged -= OnAuthenticationStateChanged;
     }
 }
