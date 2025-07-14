@@ -40,5 +40,5 @@ public partial class SystemUserAccountsResponse
 
 public partial class SystemUserAccountResponse
 {
-    public SystemUserAccount getUserAccount { get; set; }
+    public SystemUserAccount GetUserAccount { get; set; }
 }

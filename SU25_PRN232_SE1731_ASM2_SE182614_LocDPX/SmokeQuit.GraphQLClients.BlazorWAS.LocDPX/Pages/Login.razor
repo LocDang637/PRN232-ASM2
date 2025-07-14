@@ -1,8 +1,10 @@
 ﻿@page "/login"
 @inject JwtAuthService JwtAuthService
 @inject NavigationManager Navigation
+@using Microsoft.AspNetCore.Components.Forms
 @using SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.Services
-
+@using System.ComponentModel.DataAnnotations
+@inject JwtAuthService JwtAuthService
 <PageTitle>Login - SmokeQuit</PageTitle>
 
 <div class="container-fluid vh-100 d-flex align-items-center justify-content-center">

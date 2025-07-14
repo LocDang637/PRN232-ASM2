@@ -61,8 +61,8 @@ namespace SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.Services
         {
             try
             {
-                // Call GraphQL login mutation that returns JWT token
-                var loginResponse = await _graphQLConsumer.GetUserAccount(username, password);
+                // Fix: Use LoginAsync instead of GetUserAccount
+                var loginResponse = await _graphQLConsumer.LoginAsync(username, password);
 
                 if (loginResponse != null && !string.IsNullOrEmpty(loginResponse.Token))
                 {
@@ -158,9 +158,9 @@ namespace SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.Services
         public string? ErrorMessage { get; set; }
     }
 
-    public class LoginResponse
-    {
-        public string Token { get; set; } = string.Empty;
-        public SystemUserAccount User { get; set; } = new();
-    }
+    //public class LoginResponse
+    //{
+    //    public string Token { get; set; } = string.Empty;
+    //    public SystemUserAccount User { get; set; } = new();
+    //}
 }

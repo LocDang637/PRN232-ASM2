@@ -2,7 +2,7 @@
 using GraphQL.Client.Abstractions;
 using SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.Models;
 using SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.Services;
-
+using LoginResponseModel = SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.Models.LoginResponse;
 namespace SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.GraphQLClients
 {
     public class GraphQLConsumer
@@ -13,28 +13,28 @@ namespace SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.GraphQLClients
 
         #region JWT Authentication Methods
 
-        public async Task<LoginResponse?> LoginAsync(string username, string password)
+        public async Task<LoginResponseModel?> LoginAsync(string username, string password)
         {
             try
             {
                 var graphQLRequest = new GraphQLRequest
                 {
                     Query = @"mutation Login($username: String!, $password: String!) {
-                        login(username: $username, password: $password) {
-                            token
-                            user {
-                                userAccountId
-                                userName
-                                fullName
-                                email
-                                phone
-                                employeeCode
-                                roleId
-                                isActive
-                                createdDate
-                            }
-                        }
-                    }",
+                login(username: $username, password: $password) {
+                    token
+                    user {
+                        userAccountId
+                        userName
+                        fullName
+                        email
+                        phone
+                        employeeCode
+                        roleId
+                        isActive
+                        createdDate
+                    }
+                }
+            }",
                     Variables = new { username = username, password = password }
                 };
 
