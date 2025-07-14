@@ -70,7 +70,8 @@ app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();
 
-app.UseRouting().UseEndpoints(endpoints => { endpoints.MapGraphQL(); });
+// Map GraphQL endpoint - FIXED: Removed duplicate routing
+app.MapGraphQL();
 
 app.MapControllers();
 
