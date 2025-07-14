@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SU25\\PRN232\\ASM\\ASM4\\SU25_PRN232_SE1731_ASM04_SE182614_LocDPX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43F0F306-BA90-4F53-92F6-59F15433FB5A}|SmokeQuit.SoapAPIServices.LocDPX\\SmokeQuit.SoapAPIServices.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm4\\su25_prn232_se1731_asm04_se182614_locdpx\\smokequit.soapapiservices.locdpx\\soapservices\\chatslocdpxsoapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F0F306-BA90-4F53-92F6-59F15433FB5A}|SmokeQuit.SoapAPIServices.LocDPX\\SmokeQuit.SoapAPIServices.LocDPX.csproj|solutionrelative:smokequit.soapapiservices.locdpx\\soapservices\\chatslocdpxsoapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F0F306-BA90-4F53-92F6-59F15433FB5A}|SmokeQuit.SoapAPIServices.LocDPX\\SmokeQuit.SoapAPIServices.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm4\\su25_prn232_se1731_asm04_se182614_locdpx\\smokequit.soapapiservices.locdpx\\soapservices\\coachlocdpxsoapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F0F306-BA90-4F53-92F6-59F15433FB5A}|SmokeQuit.SoapAPIServices.LocDPX\\SmokeQuit.SoapAPIServices.LocDPX.csproj|solutionrelative:smokequit.soapapiservices.locdpx\\soapservices\\coachlocdpxsoapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD2FB35-8C83-4A3B-B13B-D2EAE3B8708D}|SmokeQuit.SoapClients.ConsoleApp.LocDpx\\SmokeQuit.SoapClients.ConsoleApp.LocDpx.csproj|d:\\su25\\prn232\\asm\\asm4\\su25_prn232_se1731_asm04_se182614_locdpx\\smokequit.soapclients.consoleapp.locdpx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD2FB35-8C83-4A3B-B13B-D2EAE3B8708D}|SmokeQuit.SoapClients.ConsoleApp.LocDpx\\SmokeQuit.SoapClients.ConsoleApp.LocDpx.csproj|solutionrelative:smokequit.soapclients.consoleapp.locdpx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F0F306-BA90-4F53-92F6-59F15433FB5A}|SmokeQuit.SoapAPIServices.LocDPX\\SmokeQuit.SoapAPIServices.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm4\\su25_prn232_se1731_asm04_se182614_locdpx\\smokequit.soapapiservices.locdpx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F0F306-BA90-4F53-92F6-59F15433FB5A}|SmokeQuit.SoapAPIServices.LocDPX\\SmokeQuit.SoapAPIServices.LocDPX.csproj|solutionrelative:smokequit.soapapiservices.locdpx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F0F306-BA90-4F53-92F6-59F15433FB5A}|SmokeQuit.SoapAPIServices.LocDPX\\SmokeQuit.SoapAPIServices.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm4\\su25_prn232_se1731_asm04_se182614_locdpx\\smokequit.soapapiservices.locdpx\\smokequit.soapapiservices.locdpx.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{43F0F306-BA90-4F53-92F6-59F15433FB5A}|SmokeQuit.SoapAPIServices.LocDPX\\SmokeQuit.SoapAPIServices.LocDPX.csproj|solutionrelative:smokequit.soapapiservices.locdpx\\smokequit.soapapiservices.locdpx.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8F011F-A793-CE4D-9C37-9E9F6D4A2B7E}|..\\..\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.Services.LocDPX\\SmokeQuit.Services.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.services.locdpx\\serviceproviders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F0F306-BA90-4F53-92F6-59F15433FB5A}|SmokeQuit.SoapAPIServices.LocDPX\\SmokeQuit.SoapAPIServices.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm4\\su25_prn232_se1731_asm04_se182614_locdpx\\smokequit.soapapiservices.locdpx\\soapmodels\\systemuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F0F306-BA90-4F53-92F6-59F15433FB5A}|SmokeQuit.SoapAPIServices.LocDPX\\SmokeQuit.SoapAPIServices.LocDPX.csproj|solutionrelative:smokequit.soapapiservices.locdpx\\soapmodels\\systemuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F0F306-BA90-4F53-92F6-59F15433FB5A}|SmokeQuit.SoapAPIServices.LocDPX\\SmokeQuit.SoapAPIServices.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm4\\su25_prn232_se1731_asm04_se182614_locdpx\\smokequit.soapapiservices.locdpx\\soapmodels\\coacheslocdpx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F0F306-BA90-4F53-92F6-59F15433FB5A}|SmokeQuit.SoapAPIServices.LocDPX\\SmokeQuit.SoapAPIServices.LocDPX.csproj|solutionrelative:smokequit.soapapiservices.locdpx\\soapmodels\\coacheslocdpx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F0F306-BA90-4F53-92F6-59F15433FB5A}|SmokeQuit.SoapAPIServices.LocDPX\\SmokeQuit.SoapAPIServices.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm4\\su25_prn232_se1731_asm04_se182614_locdpx\\smokequit.soapapiservices.locdpx\\soapmodels\\chatslocdpx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F0F306-BA90-4F53-92F6-59F15433FB5A}|SmokeQuit.SoapAPIServices.LocDPX\\SmokeQuit.SoapAPIServices.LocDPX.csproj|solutionrelative:smokequit.soapapiservices.locdpx\\soapmodels\\chatslocdpx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F0F306-BA90-4F53-92F6-59F15433FB5A}|SmokeQuit.SoapAPIServices.LocDPX\\SmokeQuit.SoapAPIServices.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm4\\su25_prn232_se1731_asm04_se182614_locdpx\\smokequit.soapapiservices.locdpx\\soapmodels\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F0F306-BA90-4F53-92F6-59F15433FB5A}|SmokeQuit.SoapAPIServices.LocDPX\\SmokeQuit.SoapAPIServices.LocDPX.csproj|solutionrelative:smokequit.soapapiservices.locdpx\\soapmodels\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 532,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SmokeQuit.SoapAPIServices.LocDPX.csproj",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM4\\SU25_PRN232_SE1731_ASM04_SE182614_LocDPX\\SmokeQuit.SoapAPIServices.LocDPX\\SmokeQuit.SoapAPIServices.LocDPX.csproj",
+              "RelativeDocumentMoniker": "SmokeQuit.SoapAPIServices.LocDPX\\SmokeQuit.SoapAPIServices.LocDPX.csproj",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM4\\SU25_PRN232_SE1731_ASM04_SE182614_LocDPX\\SmokeQuit.SoapAPIServices.LocDPX\\SmokeQuit.SoapAPIServices.LocDPX.csproj",
+              "RelativeToolTip": "SmokeQuit.SoapAPIServices.LocDPX\\SmokeQuit.SoapAPIServices.LocDPX.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-05T09:57:29.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM4\\SU25_PRN232_SE1731_ASM04_SE182614_LocDPX\\SmokeQuit.SoapAPIServices.LocDPX\\Program.cs",
+              "RelativeDocumentMoniker": "SmokeQuit.SoapAPIServices.LocDPX\\Program.cs",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM4\\SU25_PRN232_SE1731_ASM04_SE182614_LocDPX\\SmokeQuit.SoapAPIServices.LocDPX\\Program.cs",
+              "RelativeToolTip": "SmokeQuit.SoapAPIServices.LocDPX\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T09:57:00.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM4\\SU25_PRN232_SE1731_ASM04_SE182614_LocDPX\\SmokeQuit.SoapClients.ConsoleApp.LocDpx\\Program.cs",
+              "RelativeDocumentMoniker": "SmokeQuit.SoapClients.ConsoleApp.LocDpx\\Program.cs",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM4\\SU25_PRN232_SE1731_ASM04_SE182614_LocDPX\\SmokeQuit.SoapClients.ConsoleApp.LocDpx\\Program.cs",
+              "RelativeToolTip": "SmokeQuit.SoapClients.ConsoleApp.LocDpx\\Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T09:06:48.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceProviders.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.Services.LocDPX\\ServiceProviders.cs",
+              "RelativeDocumentMoniker": "..\\..\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.Services.LocDPX\\ServiceProviders.cs",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.Services.LocDPX\\ServiceProviders.cs",
+              "RelativeToolTip": "..\\..\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.Services.LocDPX\\ServiceProviders.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T09:02:45.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoachLocDpxSoapService.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM4\\SU25_PRN232_SE1731_ASM04_SE182614_LocDPX\\SmokeQuit.SoapAPIServices.LocDPX\\SoapServices\\CoachLocDpxSoapService.cs",
+              "RelativeDocumentMoniker": "SmokeQuit.SoapAPIServices.LocDPX\\SoapServices\\CoachLocDpxSoapService.cs",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM4\\SU25_PRN232_SE1731_ASM04_SE182614_LocDPX\\SmokeQuit.SoapAPIServices.LocDPX\\SoapServices\\CoachLocDpxSoapService.cs",
+              "RelativeToolTip": "SmokeQuit.SoapAPIServices.LocDPX\\SoapServices\\CoachLocDpxSoapService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T08:53:41.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatsLocDpxSoapService.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM4\\SU25_PRN232_SE1731_ASM04_SE182614_LocDPX\\SmokeQuit.SoapAPIServices.LocDPX\\SoapServices\\ChatsLocDpxSoapService.cs",
+              "RelativeDocumentMoniker": "SmokeQuit.SoapAPIServices.LocDPX\\SoapServices\\ChatsLocDpxSoapService.cs",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM4\\SU25_PRN232_SE1731_ASM04_SE182614_LocDPX\\SmokeQuit.SoapAPIServices.LocDPX\\SoapServices\\ChatsLocDpxSoapService.cs",
+              "RelativeToolTip": "SmokeQuit.SoapAPIServices.LocDPX\\SoapServices\\ChatsLocDpxSoapService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwBEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T08:53:26.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SystemUserAccount.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM4\\SU25_PRN232_SE1731_ASM04_SE182614_LocDPX\\SmokeQuit.SoapAPIServices.LocDPX\\SoapModels\\SystemUserAccount.cs",
+              "RelativeDocumentMoniker": "SmokeQuit.SoapAPIServices.LocDPX\\SoapModels\\SystemUserAccount.cs",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM4\\SU25_PRN232_SE1731_ASM04_SE182614_LocDPX\\SmokeQuit.SoapAPIServices.LocDPX\\SoapModels\\SystemUserAccount.cs",
+              "RelativeToolTip": "SmokeQuit.SoapAPIServices.LocDPX\\SoapModels\\SystemUserAccount.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T08:13:56.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoachesLocDpx.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM4\\SU25_PRN232_SE1731_ASM04_SE182614_LocDPX\\SmokeQuit.SoapAPIServices.LocDPX\\SoapModels\\CoachesLocDpx.cs",
+              "RelativeDocumentMoniker": "SmokeQuit.SoapAPIServices.LocDPX\\SoapModels\\CoachesLocDpx.cs",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM4\\SU25_PRN232_SE1731_ASM04_SE182614_LocDPX\\SmokeQuit.SoapAPIServices.LocDPX\\SoapModels\\CoachesLocDpx.cs",
+              "RelativeToolTip": "SmokeQuit.SoapAPIServices.LocDPX\\SoapModels\\CoachesLocDpx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T08:13:52.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChatsLocDpx.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM4\\SU25_PRN232_SE1731_ASM04_SE182614_LocDPX\\SmokeQuit.SoapAPIServices.LocDPX\\SoapModels\\ChatsLocDpx.cs",
+              "RelativeDocumentMoniker": "SmokeQuit.SoapAPIServices.LocDPX\\SoapModels\\ChatsLocDpx.cs",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM4\\SU25_PRN232_SE1731_ASM04_SE182614_LocDPX\\SmokeQuit.SoapAPIServices.LocDPX\\SoapModels\\ChatsLocDpx.cs",
+              "RelativeToolTip": "SmokeQuit.SoapAPIServices.LocDPX\\SoapModels\\ChatsLocDpx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T08:13:45.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM4\\SU25_PRN232_SE1731_ASM04_SE182614_LocDPX\\SmokeQuit.SoapAPIServices.LocDPX\\SoapModels\\Class.cs",
+              "RelativeDocumentMoniker": "SmokeQuit.SoapAPIServices.LocDPX\\SoapModels\\Class.cs",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM4\\SU25_PRN232_SE1731_ASM04_SE182614_LocDPX\\SmokeQuit.SoapAPIServices.LocDPX\\SoapModels\\Class.cs",
+              "RelativeToolTip": "SmokeQuit.SoapAPIServices.LocDPX\\SoapModels\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T08:13:20.933Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 60,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
