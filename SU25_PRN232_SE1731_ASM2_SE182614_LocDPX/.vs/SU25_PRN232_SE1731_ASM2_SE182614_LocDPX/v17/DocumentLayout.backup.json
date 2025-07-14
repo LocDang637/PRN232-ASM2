@@ -3,28 +3,92 @@
   "WorkspaceRootPath": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42C3DB22-2DAD-4568-BD79-52A3B3B6E4F0}|SmokeQuit.GraphQLAPIServices.LocDPX\\SmokeQuit.GraphQLAPIServices.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.graphqlapiservices.locdpx\\smokequit.graphqlapiservices.locdpx.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{42C3DB22-2DAD-4568-BD79-52A3B3B6E4F0}|SmokeQuit.GraphQLAPIServices.LocDPX\\SmokeQuit.GraphQLAPIServices.LocDPX.csproj|solutionrelative:smokequit.graphqlapiservices.locdpx\\smokequit.graphqlapiservices.locdpx.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.graphqlclients.blazorwas.locdpx\\graphqlclients\\graphqlconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|solutionrelative:smokequit.graphqlclients.blazorwas.locdpx\\graphqlclients\\graphqlconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.graphqlclients.blazorwas.locdpx\\pages\\chatslocdpxlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|solutionrelative:smokequit.graphqlclients.blazorwas.locdpx\\pages\\chatslocdpxlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.graphqlclients.blazorwas.locdpx\\pages\\coacheslocdpxlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|solutionrelative:smokequit.graphqlclients.blazorwas.locdpx\\pages\\coacheslocdpxlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3DB22-2DAD-4568-BD79-52A3B3B6E4F0}|SmokeQuit.GraphQLAPIServices.LocDPX\\SmokeQuit.GraphQLAPIServices.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.graphqlapiservices.locdpx\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42C3DB22-2DAD-4568-BD79-52A3B3B6E4F0}|SmokeQuit.GraphQLAPIServices.LocDPX\\SmokeQuit.GraphQLAPIServices.LocDPX.csproj|solutionrelative:smokequit.graphqlapiservices.locdpx\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.graphqlclients.blazorwas.locdpx\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|solutionrelative:smokequit.graphqlclients.blazorwas.locdpx\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.graphqlclients.blazorwas.locdpx\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|solutionrelative:smokequit.graphqlclients.blazorwas.locdpx\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.graphqlclients.blazorwas.locdpx\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|solutionrelative:smokequit.graphqlclients.blazorwas.locdpx\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.graphqlclients.blazorwas.locdpx\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|solutionrelative:smokequit.graphqlclients.blazorwas.locdpx\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.graphqlclients.blazorwas.locdpx\\components\\authorizerouteview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|solutionrelative:smokequit.graphqlclients.blazorwas.locdpx\\components\\authorizerouteview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.graphqlclients.blazorwas.locdpx\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|solutionrelative:smokequit.graphqlclients.blazorwas.locdpx\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.graphqlclients.blazorwas.locdpx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|solutionrelative:smokequit.graphqlclients.blazorwas.locdpx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3DB22-2DAD-4568-BD79-52A3B3B6E4F0}|SmokeQuit.GraphQLAPIServices.LocDPX\\SmokeQuit.GraphQLAPIServices.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.graphqlapiservices.locdpx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C3DB22-2DAD-4568-BD79-52A3B3B6E4F0}|SmokeQuit.GraphQLAPIServices.LocDPX\\SmokeQuit.GraphQLAPIServices.LocDPX.csproj|solutionrelative:smokequit.graphqlapiservices.locdpx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3DB22-2DAD-4568-BD79-52A3B3B6E4F0}|SmokeQuit.GraphQLAPIServices.LocDPX\\SmokeQuit.GraphQLAPIServices.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.graphqlapiservices.locdpx\\graphqls\\queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C3DB22-2DAD-4568-BD79-52A3B3B6E4F0}|SmokeQuit.GraphQLAPIServices.LocDPX\\SmokeQuit.GraphQLAPIServices.LocDPX.csproj|solutionrelative:smokequit.graphqlapiservices.locdpx\\graphqls\\queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3DB22-2DAD-4568-BD79-52A3B3B6E4F0}|SmokeQuit.GraphQLAPIServices.LocDPX\\SmokeQuit.GraphQLAPIServices.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.graphqlapiservices.locdpx\\graphqls\\mutations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C3DB22-2DAD-4568-BD79-52A3B3B6E4F0}|SmokeQuit.GraphQLAPIServices.LocDPX\\SmokeQuit.GraphQLAPIServices.LocDPX.csproj|solutionrelative:smokequit.graphqlapiservices.locdpx\\graphqls\\mutations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F259E4-0D36-438D-8BA0-28920A680423}|SmokeQuit.Services.LocDPX\\SmokeQuit.Services.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.services.locdpx\\systemuseraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F259E4-0D36-438D-8BA0-28920A680423}|SmokeQuit.Services.LocDPX\\SmokeQuit.Services.LocDPX.csproj|solutionrelative:smokequit.services.locdpx\\systemuseraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0AC4D8-BD86-4E78-ACD6-DB64711854C2}|SmokeQuit.Repository.LocDPX\\SmokeQuit.Repository.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.repository.locdpx\\systemuseraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0AC4D8-BD86-4E78-ACD6-DB64711854C2}|SmokeQuit.Repository.LocDPX\\SmokeQuit.Repository.LocDPX.csproj|solutionrelative:smokequit.repository.locdpx\\systemuseraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F259E4-0D36-438D-8BA0-28920A680423}|SmokeQuit.Services.LocDPX\\SmokeQuit.Services.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.services.locdpx\\serviceproviders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F259E4-0D36-438D-8BA0-28920A680423}|SmokeQuit.Services.LocDPX\\SmokeQuit.Services.LocDPX.csproj|solutionrelative:smokequit.services.locdpx\\serviceproviders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.graphqlclients.blazorwas.locdpx\\models\\chatslocdpx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|solutionrelative:smokequit.graphqlclients.blazorwas.locdpx\\models\\chatslocdpx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.graphqlclients.blazorwas.locdpx\\services\\jwthttpinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|solutionrelative:smokequit.graphqlclients.blazorwas.locdpx\\services\\jwthttpinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.graphqlclients.blazorwas.locdpx\\services\\jwtauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|solutionrelative:smokequit.graphqlclients.blazorwas.locdpx\\services\\jwtauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.graphqlclients.blazorwas.locdpx\\services\\jwtauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|solutionrelative:smokequit.graphqlclients.blazorwas.locdpx\\services\\jwtauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.graphqlclients.blazorwas.locdpx\\smokequit.graphqlclients.blazorwas.locdpx.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{01A18793-E5CC-4626-987B-C09C97975221}|SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj|solutionrelative:smokequit.graphqlclients.blazorwas.locdpx\\smokequit.graphqlclients.blazorwas.locdpx.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07F259E4-0D36-438D-8BA0-28920A680423}|SmokeQuit.Services.LocDPX\\SmokeQuit.Services.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.services.locdpx\\smokequit.services.locdpx.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{07F259E4-0D36-438D-8BA0-28920A680423}|SmokeQuit.Services.LocDPX\\SmokeQuit.Services.LocDPX.csproj|solutionrelative:smokequit.services.locdpx\\smokequit.services.locdpx.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA0AC4D8-BD86-4E78-ACD6-DB64711854C2}|SmokeQuit.Repository.LocDPX\\SmokeQuit.Repository.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.repository.locdpx\\smokequit.repository.locdpx.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FA0AC4D8-BD86-4E78-ACD6-DB64711854C2}|SmokeQuit.Repository.LocDPX\\SmokeQuit.Repository.LocDPX.csproj|solutionrelative:smokequit.repository.locdpx\\smokequit.repository.locdpx.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07F259E4-0D36-438D-8BA0-28920A680423}|SmokeQuit.Services.LocDPX\\SmokeQuit.Services.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.services.locdpx\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07F259E4-0D36-438D-8BA0-28920A680423}|SmokeQuit.Services.LocDPX\\SmokeQuit.Services.LocDPX.csproj|solutionrelative:smokequit.services.locdpx\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA0AC4D8-BD86-4E78-ACD6-DB64711854C2}|SmokeQuit.Repository.LocDPX\\SmokeQuit.Repository.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.repository.locdpx\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA0AC4D8-BD86-4E78-ACD6-DB64711854C2}|SmokeQuit.Repository.LocDPX\\SmokeQuit.Repository.LocDPX.csproj|solutionrelative:smokequit.repository.locdpx\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,34 +98,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 532,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 13,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SmokeQuit.GraphQLAPIServices.LocDPX",
-              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLAPIServices.LocDPX\\SmokeQuit.GraphQLAPIServices.LocDPX.csproj",
-              "RelativeDocumentMoniker": "SmokeQuit.GraphQLAPIServices.LocDPX\\SmokeQuit.GraphQLAPIServices.LocDPX.csproj",
-              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLAPIServices.LocDPX\\SmokeQuit.GraphQLAPIServices.LocDPX.csproj",
-              "RelativeToolTip": "SmokeQuit.GraphQLAPIServices.LocDPX\\SmokeQuit.GraphQLAPIServices.LocDPX.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-28T06:27:45.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX",
-              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj",
-              "RelativeDocumentMoniker": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj",
-              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj",
-              "RelativeToolTip": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-28T06:27:26.272Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -92,54 +130,268 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SmokeQuit.Services.LocDPX",
-              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.Services.LocDPX\\SmokeQuit.Services.LocDPX.csproj",
-              "RelativeDocumentMoniker": "SmokeQuit.Services.LocDPX\\SmokeQuit.Services.LocDPX.csproj",
-              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.Services.LocDPX\\SmokeQuit.Services.LocDPX.csproj",
-              "RelativeToolTip": "SmokeQuit.Services.LocDPX\\SmokeQuit.Services.LocDPX.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-28T06:26:47.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SmokeQuit.Repository.LocDPX",
-              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.Repository.LocDPX\\SmokeQuit.Repository.LocDPX.csproj",
-              "RelativeDocumentMoniker": "SmokeQuit.Repository.LocDPX\\SmokeQuit.Repository.LocDPX.csproj",
-              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.Repository.LocDPX\\SmokeQuit.Repository.LocDPX.csproj",
-              "RelativeToolTip": "SmokeQuit.Repository.LocDPX\\SmokeQuit.Repository.LocDPX.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-28T06:26:27.48Z",
-              "EditorCaption": ""
+              "DocumentIndex": 9,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Components\\Routes.razor",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Components\\Routes.razor",
+              "RelativeToolTip": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T09:36:33.358Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.Services.LocDPX\\Class1.cs",
-              "RelativeDocumentMoniker": "SmokeQuit.Services.LocDPX\\Class1.cs",
-              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.Services.LocDPX\\Class1.cs",
-              "RelativeToolTip": "SmokeQuit.Services.LocDPX\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\appsettings.json",
+              "RelativeDocumentMoniker": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\appsettings.json",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\appsettings.json",
+              "RelativeToolTip": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-14T09:00:47.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Program.cs",
+              "RelativeDocumentMoniker": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Program.cs",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Program.cs",
+              "RelativeToolTip": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwB4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T05:44:50.837Z",
+              "WhenOpened": "2025-07-14T09:34:29.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLAPIServices.LocDPX\\appsettings.json",
+              "RelativeDocumentMoniker": "SmokeQuit.GraphQLAPIServices.LocDPX\\appsettings.json",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLAPIServices.LocDPX\\appsettings.json",
+              "RelativeToolTip": "SmokeQuit.GraphQLAPIServices.LocDPX\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-14T09:00:58.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoachesLocDpxList.razor",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Pages\\CoachesLocDpxList.razor",
+              "RelativeDocumentMoniker": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Pages\\CoachesLocDpxList.razor",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Pages\\CoachesLocDpxList.razor",
+              "RelativeToolTip": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Pages\\CoachesLocDpxList.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T09:38:46.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatsLocDpxList.razor",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Pages\\ChatsLocDpxList.razor",
+              "RelativeDocumentMoniker": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Pages\\ChatsLocDpxList.razor",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Pages\\ChatsLocDpxList.razor",
+              "RelativeToolTip": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Pages\\ChatsLocDpxList.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T09:38:39.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GraphQLConsumer.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\GraphQLClients\\GraphQLConsumer.cs",
+              "RelativeDocumentMoniker": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\GraphQLClients\\GraphQLConsumer.cs",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\GraphQLClients\\GraphQLConsumer.cs",
+              "RelativeToolTip": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\GraphQLClients\\GraphQLConsumer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADgvxYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:20:28.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.Repository.LocDPX\\Class1.cs",
-              "RelativeDocumentMoniker": "SmokeQuit.Repository.LocDPX\\Class1.cs",
-              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.Repository.LocDPX\\Class1.cs",
-              "RelativeToolTip": "SmokeQuit.Repository.LocDPX\\Class1.cs",
+              "DocumentIndex": 8,
+              "Title": "AuthorizeRouteView.razor",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Components\\AuthorizeRouteView.razor",
+              "RelativeDocumentMoniker": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Components\\AuthorizeRouteView.razor",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Components\\AuthorizeRouteView.razor",
+              "RelativeToolTip": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Components\\AuthorizeRouteView.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T09:36:46.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAAwMoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T09:37:07.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T09:37:13.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.razor",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Pages\\Login.razor",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Pages\\Login.razor",
+              "RelativeToolTip": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Pages\\Login.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T09:38:32.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLAPIServices.LocDPX\\Program.cs",
+              "RelativeDocumentMoniker": "SmokeQuit.GraphQLAPIServices.LocDPX\\Program.cs",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLAPIServices.LocDPX\\Program.cs",
+              "RelativeToolTip": "SmokeQuit.GraphQLAPIServices.LocDPX\\Program.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAQwFUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T05:44:30.492Z"
+              "WhenOpened": "2025-07-14T09:31:26.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SystemUserAccountService.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.Services.LocDPX\\SystemUserAccountService.cs",
+              "RelativeDocumentMoniker": "SmokeQuit.Services.LocDPX\\SystemUserAccountService.cs",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.Services.LocDPX\\SystemUserAccountService.cs",
+              "RelativeToolTip": "SmokeQuit.Services.LocDPX\\SystemUserAccountService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:27:59.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SystemUserAccountRepository.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.Repository.LocDPX\\SystemUserAccountRepository.cs",
+              "RelativeDocumentMoniker": "SmokeQuit.Repository.LocDPX\\SystemUserAccountRepository.cs",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.Repository.LocDPX\\SystemUserAccountRepository.cs",
+              "RelativeToolTip": "SmokeQuit.Repository.LocDPX\\SystemUserAccountRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:27:50.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Queries.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLAPIServices.LocDPX\\GraphQLs\\Queries.cs",
+              "RelativeDocumentMoniker": "SmokeQuit.GraphQLAPIServices.LocDPX\\GraphQLs\\Queries.cs",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLAPIServices.LocDPX\\GraphQLs\\Queries.cs",
+              "RelativeToolTip": "SmokeQuit.GraphQLAPIServices.LocDPX\\GraphQLs\\Queries.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAA4wHYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:26:58.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceProviders.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.Services.LocDPX\\ServiceProviders.cs",
+              "RelativeDocumentMoniker": "SmokeQuit.Services.LocDPX\\ServiceProviders.cs",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.Services.LocDPX\\ServiceProviders.cs",
+              "RelativeToolTip": "SmokeQuit.Services.LocDPX\\ServiceProviders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:25:36.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Mutations.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLAPIServices.LocDPX\\GraphQLs\\Mutations.cs",
+              "RelativeDocumentMoniker": "SmokeQuit.GraphQLAPIServices.LocDPX\\GraphQLs\\Mutations.cs",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLAPIServices.LocDPX\\GraphQLs\\Mutations.cs",
+              "RelativeToolTip": "SmokeQuit.GraphQLAPIServices.LocDPX\\GraphQLs\\Mutations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:24:44.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChatsLocDpx.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Models\\ChatsLocDpx.cs",
+              "RelativeDocumentMoniker": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Models\\ChatsLocDpx.cs",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Models\\ChatsLocDpx.cs",
+              "RelativeToolTip": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Models\\ChatsLocDpx.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAgwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:23:36.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JwtHttpInterceptor.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Services\\JwtHttpInterceptor.cs",
+              "RelativeDocumentMoniker": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Services\\JwtHttpInterceptor.cs",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Services\\JwtHttpInterceptor.cs",
+              "RelativeToolTip": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Services\\JwtHttpInterceptor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:19:59.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JwtAuthenticationStateProvider.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Services\\JwtAuthenticationStateProvider.cs",
+              "RelativeDocumentMoniker": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Services\\JwtAuthenticationStateProvider.cs",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Services\\JwtAuthenticationStateProvider.cs",
+              "RelativeToolTip": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Services\\JwtAuthenticationStateProvider.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:18:56.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JwtAuthService.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Services\\JwtAuthService.cs",
+              "RelativeDocumentMoniker": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Services\\JwtAuthService.cs",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Services\\JwtAuthService.cs",
+              "RelativeToolTip": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\Services\\JwtAuthService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwD0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:11:05.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj",
+              "RelativeDocumentMoniker": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj",
+              "RelativeToolTip": "SmokeQuit.GraphQLClients.BlazorWAS.LocDPX\\SmokeQuit.GraphQLClients.BlazorWAS.LocDPX.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-14T09:00:15.272Z"
             }
           ]
         },

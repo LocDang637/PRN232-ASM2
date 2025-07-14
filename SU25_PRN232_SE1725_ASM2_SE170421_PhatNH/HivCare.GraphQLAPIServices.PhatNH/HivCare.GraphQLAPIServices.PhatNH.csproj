@@ -7,13 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="HotChocolate.AspNetCore" Version="15.1.5" />
-    <PackageReference Include="HotChocolate.Data" Version="15.1.5" />
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="HotChocolate.AspNetCore" Version="13.9.4" />
+    <PackageReference Include="HotChocolate.Data" Version="13.9.4" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.10" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.8.1" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\HivCare.Services.PhatNH\HivCare.Services.PhatNH.csproj" />
+    <ProjectReference Include="..\SmokeQuit.Services.LocDPX\SmokeQuit.Services.LocDPX.csproj" />
   </ItemGroup>
 
 </Project>

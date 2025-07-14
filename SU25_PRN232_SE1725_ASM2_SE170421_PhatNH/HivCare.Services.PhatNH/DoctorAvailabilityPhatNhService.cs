@@ -31,6 +31,10 @@ namespace HivCare.Services.PhatNH
             return await _doctorAvailabilityPhatNhRepository.GetByIdAsync(id);
         }
 
+        public async Task<List<DoctorAvailabilityPhatNh>> GetAllAsync()
+        {
+            return await _doctorAvailabilityPhatNhRepository.GetAllAsync();
+        }
         public async Task<PaginationResult<DoctorAvailabilityPhatNh>> GetAllAsync(int? currentPage = 1, int? pageSize = 0)
         {
             return await _doctorAvailabilityPhatNhRepository.GetAllAsyncWithPagination(currentPage:(int) currentPage, pageSize: (int) pageSize);
